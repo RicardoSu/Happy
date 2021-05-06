@@ -78,7 +78,7 @@ This repository is a monorepo, so it will hold the sources for the **Web**, **AP
 Clone the repository with:
 
 ```bash
-> git clone https://github.com/matheusfelipeog/happy.git
+> git clone https://github.com/RicardoSu/Happy
 ```
 
 The demos use **YARN** for standardization, but if you use **NPM**, just replace where it says `yarn` with `npm`.
