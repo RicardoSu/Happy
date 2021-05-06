@@ -6,11 +6,7 @@
 <h2 align="center">About 📖</h2>
    
    <p align="center">
-      The Happy project, developed during the Next Level Week, from <a href="https://rocketseat.com.br/">Rocketseat</a>, from the 12th to the 18th of October.<br>
-      The project is inspired by Charities, which carry out very important work in the world. And it is intended to encourage children to visit orphanages, which is a beautiful thing to see the happiness of children.<br>
-      And the challenge for the week was to propose not only programming, but also a little reflection. 😀<br>
-      Let's bring happiness to the world! 😊 <br>
-      This event had a lot of exclusive, free content, it was simply sensational and profitable! 😄
+      Happy is a project that aims to facilitate visits to orphanages near you 💜 This is a project developed during Next Level Week, held by @Rocketseat <a href="https://rocketseat.com.br/">Rocketseat</a> during October 12-18, 2020.
    </p>
 
    - ✅ "Accelerating Your Evolution" 💪
@@ -78,10 +74,7 @@
 <h2 align="center">Challenges and Learnings along the way 🤯</h2>
 
    <p>
-      Next Level Week, as many people know, is not a joke, it requires practice, intensity and above all, a lot of focus!<br>
-      Fortunately, I am doing well, and I want to make a week even better than the last, because after all, as the same name says, we must always be looking for the next level and be better every day!<br>
-      Today, the 16th, was the last day of class for Next Level Week, and that experience was SENSATIONAL! Rocketseat is to be congratulated, and that it always continues with these great weeks, which gave me even more focus, objective, new news with people, and I can only be thankful for this sensational work!<br>
-      It was an incredible experience, and one that I want to live more and more often! 🚀
+     
    </p>
 
 ---
@@ -102,7 +95,7 @@
    $ npm start
 
    - Open your browser in:
-   http://localhost:5500/
+   http://localhost:3000/
    ```
 
 ---
@@ -127,18 +120,13 @@
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   This repository is under MIT license. You can see the <a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE">LICENSE</a> file for more details. 😉
+   This repository is under MIT license. You can see the <a href="https://github.com/RicardoSu/Happy/blob/main/LICENSE">LICENSE</a> file for more details.
 </p>
 
    ---
 
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
-   If it helped you, give it ⭐, it will help me too 😉 
+   >This project was developed, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
 
 ---
 
-   <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
-
-   </div>
