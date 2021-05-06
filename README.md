@@ -71,32 +71,57 @@
 
 ---
 
-<h2 align="center">Challenges and Learnings along the way 🤯</h2>
+## ⚙ Installation and Start
 
-   <p>
-     
-   </p>
+This repository is a monorepo, so it will hold the sources for the **Web**, **API** and **Mobile** project. Each part of the project has its dependencies and you need to install them individually before running, so make sure you have [NPM](https://www.npmjs.com/) or [YARN](https://yarnpkg.com/) installed in your environment, plus of course the cloned repository in your environment.
 
----
+Clone the repository with:
 
-<h2 align="center">How to Use 🤔</h2>
+```bash
+> git clone https://github.com/matheusfelipeog/happy.git
+```
 
-   ```
-   - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/Happy Happy
+The demos use **YARN** for standardization, but if you use **NPM**, just replace where it says `yarn` with `npm`.
 
-   - Enter in directory:
-   $ cd Happy
+**Installing web project dependencies:**
 
-   - For install dependencies:
-   $ npm install
+```bash
+> cd happy/web
+> yarn install
+```
 
-   - Execute application:
-   $ npm start
+To run the full **web** project you must have a Mapbox API authentication **token**. Log into your account on the site and create a token to use for the project. With the token in hand, create an `.env` file and put your token as the value of the `REACT_APP_MAPBOX_TOKEN` key.
 
-   - Open your browser in:
-   http://localhost:3000/
-   ```
+Example:
+
+```text
+REACT_APP_MAPBOX_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+
+Now start the project in your environment with:
+
+```bash
+> yarn start
+```
+
+Go to: [`http://127.0.0.1:3000/`](http://127.0.0.1:3000/) para visualizar.
+
+
+**Installing dependencies for the backend project:**
+
+```bash
+> cd happy/backend
+> yarn install
+```
+
+To run the **backend** project you need to create the database with all the tables used, to do this use the corresponding directory:
+
+```bash
+> yarn typeorm migration:run
+> yarn dev
+```
+
+Go to: [`http://127.0.0.1:3333/`](http://127.0.0.1:3333/) to vizualize.
 
 ---
 
