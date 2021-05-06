@@ -109,9 +109,11 @@ Go to: [`http://127.0.0.1:3000/`](http://127.0.0.1:3000/) para visualizar.
 
 **Installing dependencies for the backend project:**
 
+
 ```bash
-> cd happy/backend
+> cd happy
 > yarn install
+> npm install
 ```
 
 To run the **backend** project you need to create the database with all the tables used, to do this use the corresponding directory:
