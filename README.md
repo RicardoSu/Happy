@@ -1,8 +1,7 @@
-<p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/95769432-3c361a00-0c8e-11eb-8ce7-9ee9a66f32af.png" width="10%" alt="Happy Logo"/>
-</p>
-
 <h1 align="center">Next Level Week, third edition, project "Happy". 🥳</h1>
+<p align="center">
+      <img src="https://github.com/RicardoSu/Happy/blob/main/Images/demos/Desktop/main_page.PNG" alt="Happy Logo"/>
+</p>
 
 <h2 align="center">About 📖</h2>
    
@@ -25,11 +24,8 @@
 <h2 align="center">Preview 💻📱</h2>
 
    <p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="90%" alt="Happy Demo"/>
-      <img src="./public/images/demos/demohappy.gif" width="90%" alt="Happy Demo"/>
+      <img src="https://github.com/RicardoSu/Happy/blob/main/Images/demos/Desktop/second_image.PNG" width="90%" alt="Happy Demo"/>
    </p>
-
-   > * See all in [`demo`](https://github.com/felipecastrosales/Happy/tree/master/public/images/demos) folder. 🧐📂
 
 ---
 
