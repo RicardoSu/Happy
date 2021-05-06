@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://github.com/RicardoSu/Happy/blob/main/Images/demos/Desktop/main_page.PNG" width="10%" alt="Happy Logo"/>
+      <img src="https://github.com/RicardoSu/Happy/blob/main/Images/demos/Desktop/main_page.PNG" alt="Happy Logo"/>
 </p>
 
 <h1 align="center">Next Level Week, third edition, project "Happy". 🥳</h1>
