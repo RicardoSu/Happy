@@ -1,4 +1,4 @@
-<h1 align="center">Next Level Week, third edition, project "Happy". 🥳</h1>
+<h1 align="center">Next Level Week "Happy". 😃</h1>
 <p align="center">
       <img src="https://github.com/RicardoSu/Happy/blob/main/Images/demos/Desktop/main_page.PNG" alt="Happy Logo"/>
 </p>
